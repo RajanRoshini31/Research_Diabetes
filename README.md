@@ -1,4 +1,4 @@
-# Research Paper: Early Detection of Diabetes Using Artificial Intelligence Models
+# Research Paper: Comparative Analysis of AI Models for Accurate Early Diabetes Detection
 
 This repository accompanies our research paper focused on the **early detection of diabetes** through advanced artificial intelligence and machine learning techniques. The study explores various traditional and deep learning models to improve prediction accuracy and support healthcare applications.
 
